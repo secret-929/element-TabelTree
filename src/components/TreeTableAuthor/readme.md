@@ -1,19 +1,24 @@
 ## 再次说明
 在大佬的代码基础上改的
+
 源地址：https://github.com/Echo987/vue-tableAuthor
+
 原文章：https://blog.csdn.net/weixin_41013537/article/details/82895291?spm=1001.2101.3001.6650.3&utm_medium=distribute.pc_relevant.none-task-blog-2%7Edefault%7ECTRLIST%7ERate-3.pc_relevant_default&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2%7Edefault%7ECTRLIST%7ERate-3.pc_relevant_default&utm_relevant_index=6
 
 经过我得不懈努力将原本优美的代码改成屎一样，好在它可以运行并实现了一些功能
+
 components中有三个vue文件
+
 index.vue:含半选全选
+
 index-noIsIndeterminate:不含半选方式
+
 index:大佬原代码
 
 我的垃圾代码只是根据我自己的业务需求改了下大佬的结构，处理了一下数据，其他都是按照大佬的思路
 
-### ######  ######  ######  ###
+
 ##  下面是大佬之前的文档说明  ##
-### ######  ######  ######  ###
 
 ## 写在前面
 此组件仅提供一个创建TreeTable的解决思路
