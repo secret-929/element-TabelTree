@@ -1,9 +1,9 @@
 ## 再次说明
 在大佬的代码基础上改的
 
-源地址：https://github.com/Echo987/vue-tableAuthor
+参考地址：https://github.com/Echo987/vue-tableAuthor
 
-原文章：https://blog.csdn.net/weixin_41013537/article/details/82895291?spm=1001.2101.3001.6650.3&utm_medium=distribute.pc_relevant.none-task-blog-2%7Edefault%7ECTRLIST%7ERate-3.pc_relevant_default&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2%7Edefault%7ECTRLIST%7ERate-3.pc_relevant_default&utm_relevant_index=6
+参考文章：https://blog.csdn.net/weixin_41013537/article/details/82895291?spm=1001.2101.3001.6650.3&utm_medium=distribute.pc_relevant.none-task-blog-2%7Edefault%7ECTRLIST%7ERate-3.pc_relevant_default&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2%7Edefault%7ECTRLIST%7ERate-3.pc_relevant_default&utm_relevant_index=6
 
 经过我得不懈努力将原本优美的代码改成屎一样，好在它可以运行并实现了一些功能
 
